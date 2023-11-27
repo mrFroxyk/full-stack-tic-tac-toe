@@ -20,3 +20,4 @@ my-app/.env.production.local
 my-app/npm-debug.log*
 my-app/yarn-debug.log*
 my-app/yarn-error.log*
+*.docx
