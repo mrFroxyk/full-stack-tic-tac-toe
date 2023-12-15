@@ -99,3 +99,17 @@ img {
     flex-wrap: wrap;
     /* border:  2px solid#2e2b2b; */
 }
+.History{
+    display: flex;
+    justify-content: center;
+}
+
+.History__Button{
+    margin: 10px;
+    background-color: #adadac;
+    padding: 5px;
+    border-radius: 6px;
+}
+.History__Button:hover{
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
